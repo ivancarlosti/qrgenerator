@@ -52,7 +52,7 @@
 				<article>
 					<h1><img src="qr-code-generator-library.png"> Gerador de QR</h1>
 					<form onsubmit="event.preventDefault();">
-						<div id="loading" style="display: none;"></div>
+						<div id="loading"></div>
 						<div id="loaded"></div>
 						<table class="noborder" style="width:100%">
 							<tbody>
@@ -94,8 +94,8 @@
 								<tr>
 									<td>Version range:</td>
 									<td>
-										Minimum = <input type="number" min="1" max="40" step="1" value="1" id="version-min-input" style="width:4em" oninput="app.handleVersionMinMax(&#39;min&#39;);">,
-										maximum = <input type="number" min="1" max="40" step="1" value="40" id="version-max-input" style="width:4em" oninput="app.handleVersionMinMax(&#39;max&#39;);">
+										Minimum = <input type="number" min="1" max="40" step="1" value="1" id="version-min-input" style="width:4em" oninput="app.handleVersionMinMax('min');">,
+										maximum = <input type="number" min="1" max="40" step="1" value="40" id="version-max-input" style="width:4em" oninput="app.handleVersionMinMax('max');">
 									</td>
 								</tr>
 								<tr>
