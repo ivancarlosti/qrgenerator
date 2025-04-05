@@ -8,7 +8,6 @@ Project inspired by https://github.com/nayuki/QR-Code-generator
 [![License](https://img.shields.io/github/license/ivancarlosti/awssesconverter?label=License)](LICENSE)
 [![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/awssesconverter/security)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/awssesconverter/tree/main?tab=coc-ov-file)  
-[![sync-qifi-content](https://github.com/ivancarlosti/awssesconverter/actions/workflows/sync-qifi-content.yml/badge.svg)](https://github.com/ivancarlosti/awssesconverter/actions/workflows/sync-qifi-content.yml)  
 [![pages-build-deployment](https://github.com/ivancarlosti/awssesconverter/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/awssesconverter/actions/workflows/pages/pages-build-deployment)
 
 ---
