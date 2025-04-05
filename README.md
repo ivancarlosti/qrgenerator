@@ -11,7 +11,7 @@ Light and clean QR Code generator with download image support in SVG (vector) an
 [![pages-build-deployment](https://github.com/ivancarlosti/qrgenerator/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/qrgenerator/actions/workflows/pages/pages-build-deployment)
 
 ## Inspiration
-Project inspired by https://github.com/nayuki/QR-Code-generator, license preserved
+Project inspired by [QR Code generator](https://github.com/nayuki/QR-Code-generator), license preserved
 
 ---
 
