@@ -1,5 +1,5 @@
 # QR Generator
-Project inspired by https://github.com/nayuki/QR-Code-generator, license preserved
+Light and clean QR Code generator with download image support in SVG (vector) and PNG (binary bitmap) support
 
 [![Stars](https://img.shields.io/github/stars/ivancarlosti/qrgenerator?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/qrgenerator/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/qrgenerator?label=Last%20Commit)](https://github.com/ivancarlosti/qrgenerator/commits)
@@ -9,6 +9,9 @@ Project inspired by https://github.com/nayuki/QR-Code-generator, license preserv
 [![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/qrgenerator/security)
 [![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-1.4-4baaaa)](https://github.com/ivancarlosti/qrgenerator/tree/main?tab=coc-ov-file)  
 [![pages-build-deployment](https://github.com/ivancarlosti/qrgenerator/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ivancarlosti/qrgenerator/actions/workflows/pages/pages-build-deployment)
+
+## Inspiration
+Project inspired by https://github.com/nayuki/QR-Code-generator, license preserved
 
 ---
 
