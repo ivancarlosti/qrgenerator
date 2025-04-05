@@ -1,5 +1,5 @@
 # QR Generator
-Project inspired by https://github.com/nayuki/QR-Code-generator
+Project inspired by https://github.com/nayuki/QR-Code-generator, license preserved
 
 [![Stars](https://img.shields.io/github/stars/ivancarlosti/awssesconverter?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/awssesconverter/stargazers)
 [![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/awssesconverter?label=Last%20Commit)](https://github.com/ivancarlosti/awssesconverter/commits)
